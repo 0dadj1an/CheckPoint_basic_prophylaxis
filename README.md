@@ -6,3 +6,4 @@
 https://sc1.checkpoint.com/documents/latest/APIs/index.html#cli/run-script~v1.8%20
 
 * run script, follow instructions, see comments if needed, python 3.X ready
+* if needed, see logcp.elg log file generated in same path where is script for logs, errors
